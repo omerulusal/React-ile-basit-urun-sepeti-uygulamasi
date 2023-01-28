@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "url": "https://images.unsplash.com/photo-1562408590-e32931084e23?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"Asus Prime B450M-K II AMD AM4 DDR4 Micro ATX Anakart",
+        "info":"Micro/ATX, DDR4, AMD Uyumlu, AM4, VGA, DVI, HDMI, AMD ",
+        "adet":1
+    },
+    {
+        "id": 2,
+        "url": "https://images.unsplash.com/photo-1555617766-c94804975da3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"AMD Ryzen 5 5500 Altı Çekirdek 3.60 GHz",
+        "info":"AM4, İşlemci Hızı: 3.60 GHz, 6 Çekirdek, Ryzen 5, Sanallaştırma, Turbo Boost, Maximum Turbo Hızı: 4.2 GHz.",
+        "adet":1
+    },
+    {
+        "id": 3,
+        "url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"Bose QuietComfort 45 Kablosuz, Kulak Üstü,",
+        "info":"Gürültü Engelleyen Kulaklık, 24 Saat Çalma, Bluetooth 5.1.",
+        "adet":1
+    },
+    {
+        "id": 4,
+        "url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"Dizüstü Bilgisayar",
+        "info":"6.5 mm mikro kenarlı çerçeve sayesinde ekranınıza odaklanın, ince ve hafif tasarımı sayesinde bu bilgisayarı her yere götürebilirsiniz.",
+        "adet":1
+    },
+    {
+        "id": 5,
+        "url": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "title":"Apple iPhone 14 Pro Max",
+        "info":"Hep Açık özelliğine ve ProMotion teknolojisine sahip 6.7 inç Super Retina XDR ekran...",
+        "adet":1
+    },
+    {
+        "id": 6,
+        "url": "https://images.unsplash.com/photo-1585314614250-d213876625e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80",
+        "title":"Logitech K380 Çoklu Cihaz Bluetooth Klavye, Ultra İnce Modern Tasarım",
+        "info":"Bilgisayarda, telefonda, tablette ve diğer cihazlarda yazı yazmak için ideal, kolayca bluetooth ile bağlanabilen, ultra ince tasarımlı Çoklu Cihaz klavyesidir.",
+        "adet":1
+    },
+    {
+        "id": 7,
+        "url": "https://images.unsplash.com/photo-1524143986875-3b098d78b363?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"Mini SE Fly More Combo - 3-axis Kameralı Drone, 2.7K Kamera",
+        "info":"Akıllı Telefon Kadar Hafif - 249 gramdan daha hafif olan DJI Mini SE, akıllı telefonla yaklaşık aynı ağırlığa sahiptir. Bu kameralı hava aracını kaydettirmeye gerek kalmadan uçurabilirsiniz.",
+        "adet":1
+    },
+    {
+        "id": 8,
+        "url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title":"MAG META S 3SI-024XTR Masaüstü Bilgisayar, Ryzen R5-3600, 16GB RAM, 512GB SSD, GTX1660 SUPER 6GB, DOS, Siyah",
+        "info":"İşletim Sistemi: Freedos.İşlemci: AMD Ryzen 5 3600.Depolama Alanı: 512GB*1 SSD.",
+        "adet":1
+    },
+    {
+        "id": 9,
+        "url": "https://images.unsplash.com/photo-1631863552122-3072cf599a46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80",
+        "title":"Watch SE (2. Nesil) [GPS 40 mm] Akıllı Saat, Gece Yarısı Alüminyum Kasa ve Gece Yarısı Spor Kordon.",
+        "info":"Fitness ve sağlık durumunuzu takip etmeniz, bağlantıda ve güvende kalmanız için gereken her şey bileğinizde. Yüzde 20’ye kadar daha yüksek hız, Trafik Kazası Algılama gibi özellikler ve zenginleştirilen antrenman ölçümlerine sahiptir",
+        "adet":1
+    },
+    {
+        "id": 10,
+        "url": "https://images.unsplash.com/photo-1586062129117-08db958ba215?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"310 Kablolu Gamepad, Özel 4 Tuşlu Hassas D-Pad, 1,8 m Kablo Uzunluğu",
+        "info":"XInput/DirectInput sayesinde kurulumunu yapmak ve kullanmak oldukça kolaydır. Tuşlar ve denetimler tamamen programlanabilirdir ve klavye ve mouse komutlarınızı bile taklit edebilirler.",
+        "adet":1
+    },
+    {
+        "id": 11,
+        "url": "https://images.unsplash.com/photo-1554941426-5eb1f0a4e107?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "title":"Mikrofon takviyeli USB mikrofon, MAONO 192 kHz/24 bit Podcast bilgisayar kondansatör mikrofonu",
+        "info":"Esnek mikrofon güçlendirici regülatörü: Mikrofon güçlendirme regülatörü mikrofonun hassasiyetini artırabilir, böylece güçlendirme ve ses seviyesini kolay ve hızlı bir şekilde ayarlayabilirsiniz.",
+        "adet":1
+    },
+    {
+        "id": 12,
+        "url": "https://images.unsplash.com/photo-1554941071-8ec75d5379b5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "title":"RF 35 mm F/1.8 Macro IS STM Lens",
+        "info":"Kombinasyon IS, hem lensin optik Görüntü Sabitleyicisini hem de fotoğraf makinenizin 5 eksenli elektronik IS özelliğini kullanır",
+        "adet":1
+    }
+    
+]
